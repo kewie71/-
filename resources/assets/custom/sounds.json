@@ -1,0 +1,58 @@
+{
+  "audio1": {
+    "sounds": [
+      "custom:jumpscare"]
+    },
+  "audio2": {
+    "sounds": [
+      "custom:ghost"]
+    },
+   "audio3": {
+    "sounds": [
+      "custom:lightbreak"]
+    },
+   "audio4": {
+    "sounds": [
+      "custom:footsteps"]
+    },
+   "audio5": {
+    "sounds": [
+      "custom:gateopen"]
+    },
+   "audio6": {
+    "sounds": [
+      "custom:roar"]
+    },
+   "audio7": {
+    "sounds": [
+      "custom:ambiance"]
+   },
+   "audio8": {
+    "sounds": [
+      "custom:rocks"]
+   },
+   "audio9": {
+    "sounds": [
+      "custom:ambiance2"]
+   },
+   "audio10": {
+    "sounds": [
+      "custom:doorclose"]
+   },
+   "audio11": {
+    "sounds": [
+      "custom:chase"]
+   },
+   "audio12": {
+    "sounds": [
+      "custom:chasing"]
+   },
+   "audio13": {
+    "sounds": [
+      "custom:uprise"]
+   },
+   "audio14": {
+    "sounds": [
+      "custom:footsteps2"]
+   }
+}
